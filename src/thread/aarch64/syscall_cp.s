@@ -25,6 +25,7 @@ __cp_begin:
 	mov x3,x5
 	mov x4,x6
 	mov x5,x7
+	mov x7,x8
 	svc 0
 __cp_end:
 	ret
